@@ -1,0 +1,7 @@
+C:\Users\msoukup\source\repos\Mod1_Lab4\Mod1_Lab4\obj\Debug\Mod1_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\msoukup\source\repos\Mod1_Lab4\Mod1_Lab4\bin\Debug\Mod1_Lab4.exe.config
+C:\Users\msoukup\source\repos\Mod1_Lab4\Mod1_Lab4\bin\Debug\Mod1_Lab4.exe
+C:\Users\msoukup\source\repos\Mod1_Lab4\Mod1_Lab4\bin\Debug\Mod1_Lab4.pdb
+C:\Users\msoukup\source\repos\Mod1_Lab4\Mod1_Lab4\obj\Debug\Mod1_Lab4.exe
+C:\Users\msoukup\source\repos\Mod1_Lab4\Mod1_Lab4\obj\Debug\Mod1_Lab4.pdb
+C:\Users\msoukup\source\repos\Mod1_Lab4\Mod1_Lab4\obj\Debug\Mod1_Lab4.csprojResolveAssemblyReference.cache
